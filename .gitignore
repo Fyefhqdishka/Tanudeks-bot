@@ -1,0 +1,6 @@
+# environment variable file #
+#############################
+
+*.env
+/index.env
+/.idea
